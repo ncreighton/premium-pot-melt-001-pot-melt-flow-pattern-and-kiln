@@ -1,0 +1,2 @@
+# premium-pot-melt-001-pot-melt-flow-pattern-and-kiln
+Tired of inconsistent pot melt results? One small change in kiln wash thickness can ruin a flow pattern — and if you're not logging it, you're guessing.  This Notion template gives you a systematic way to record every variable from kiln wash application to final flow pattern, so you can replicate successes and troubleshoot failures. No more relying
